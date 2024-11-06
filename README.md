@@ -45,7 +45,7 @@ The following Python libraries were used in the project:
 
 To install the necessary libraries, run:
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib seaborn tensorflow pickle re time
 
 # transformer-abstractive-summarization
 Abstractive Text Summarization using Transformer
